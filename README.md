@@ -1,0 +1,1 @@
+Motivated and detail-oriented Python Developer with hands-on experience from internship and previous roles in PHP development. Seeking an entry-level Python Developer position to apply my skills in Python, Django, REST APIs, and front-end technologies to build scalable web applications and grow as a full-stack developer.
